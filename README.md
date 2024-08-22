@@ -2,15 +2,7 @@
 
 This repository provides an implementation of an Active Contour (Snake) algorithm for the segmentation of brain tumors in medical images. The project leverages Python's OpenCV and NumPy libraries to process images and detect tumor boundaries with precision.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Methodology](#methodology)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+
 
 ## Introduction
 
