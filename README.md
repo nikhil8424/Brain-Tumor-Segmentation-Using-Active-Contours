@@ -9,4 +9,7 @@ This repository provides an implementation of an Active Contour (Snake) algorith
 Brain tumor detection is a critical task in medical image analysis. The goal of this project is to implement a contour-based segmentation technique, known as Active Contours or Snakes, to accurately outline brain tumors in grayscale medical images.
 
 [document](https://github.com/nikhil8424/Brain-Tumor-Segmentation-Using-Active-Contours/blob/main/FM_PROJECT.docx)
+
 [PPT](https://github.com/nikhil8424/Brain-Tumor-Segmentation-Using-Active-Contours/blob/main/FM_PROJECT.pptx)
+
+[Main File](https://github.com/nikhil8424/Brain-Tumor-Segmentation-Using-Active-Contours/blob/main/braintumor_segmentation.py)
